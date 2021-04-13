@@ -73,7 +73,7 @@
         *   To bring additional expertise to the table and help balance the load for SIG Leads, we would like to grow new Leads in the future, and are determining how best to implement the Tech Lead role in a SIG like ours. We would like to grow one or two interested members into that new role, and will be looking for help with this bootstrapping process when that time comes.
 *   **What's the average open days of a PR and Issue in your group?**
     *   As a SIG who doesn’t own code in a project that encourages non-code contributions, we find the question of which PRs and issues belong to us to be difficult to answer, and would like to encourage further inclusivity of different kinds of contribution in questions on future reports.
-    *   What metrics does your group care about and/or measure?
+    *   **What metrics does your group care about and/or measure?**
         *   The metrics we are most immediately interested in are community engagement metrics, as discussed above under “Membership”.
         *   As we grow and mature as a SIG, we seek to better understand how well we are achieving our overall goal of holistically improving Kubernetes security. To do so, we’d like to find metrics that help answer questions like these:
             *   Are the services that we offer to the project achieving their goals?
